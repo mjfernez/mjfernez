@@ -1,9 +1,9 @@
 - Hi, I’m @mjfernez
 
-- I’m interested in: digital forensics, memory, operating systems, math, physics, Python, C, and stuff that makes
+- I’m interested in: digital forensics, memory, operating systems, interpreters, math, physics, Python, C, and stuff that makes
   life easier
   
-- I’m currently learning: C language, gdb, x86 and ARM assembly, the gory details of linux... and git to be honest
+- I’m currently learning: C language, gdb, x86 and ARM assembly, linux sysadmin, interpreters... and git to be honest
 
 - I’m looking to collaborate on any security/forensic-related projects, making better documentation (boy does the world neeed that...),
   anything involving a lot of math, cool video game ideas, anything that promotes free (as in freedom!) software
