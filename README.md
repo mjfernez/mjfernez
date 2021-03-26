@@ -5,7 +5,7 @@
   
 - I’m currently learning: C language, gdb, x86 and ARM assembly, the gory details of linux... and git to be honest
 
-- I’m looking to collaborate on security projects, making better documentation (boy does the world neeed that...),
+- I’m looking to collaborate on any security/forensic-related projects, making better documentation (boy does the world neeed that...),
   anything involving a lot of math, cool video game ideas, anything that promotes free (as in freedom!) software
   or a freer world. Or anything in C or Python!
   
