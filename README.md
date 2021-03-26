@@ -13,7 +13,7 @@
   or the bulky IDEs I was taught on so I never really took code *seriously* until I had a course with MATHLAB in my junior
   year of college. Soon after I found GNU Octave, then Linux, and Python and well.... got hooked from there! Eventually
   got bit by the security bug while I was floundering in a Physics PHD program. Instead of studying stat mech, I was up 
-  for hours trying to do hackthissite excercises, so I jumped ship into a Cybersecurity Master's program!
+  for hours trying to do hackthissite excercises and reading man pages, so I jumped ship into a cybersecurity program!
   
   I've been working as an Infosec Analyst at Adelphi University since 2019
 
