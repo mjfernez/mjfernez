@@ -17,6 +17,11 @@
   
   I've been working as an Infosec Analyst at Adelphi University since 2019
 
+<b><p align="center">
+  All projects/opinions/commits/anything related on this account is my personal work 
+  and DOES NOT necessarily reflect the views or work of my employer
+</p></b>
+
 - How to reach me: mjfernez@gmail.com
 
 ```
