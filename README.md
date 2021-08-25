@@ -1,26 +1,28 @@
-- Hi, I’m @mjfernez
+^So I'm that guy
 
-- I’m interested in: digital forensics, memory, operating systems, interpreters, math, physics, Python, C, and stuff that makes
-  life easier
-  
-- I’m currently learning: C language, gdb, x86 and ARM assembly, linux sysadmin, interpreters... and git to be honest
+I spend a good portion of my day reading through projects on here and various gitlabs and not understanding them. The struggle is the fun, along with when the machine finally does what you want and goes beep boop.
 
-- I’m looking to collaborate on any security/forensic-related projects, making better documentation (boy does the world neeed that...),
-  anything involving a lot of math, cool video game ideas, anything that promotes free (as in freedom!) software
-  or a freer world. Or anything in C or Python!
-  
-- A bit of background: I first learned Visual Basic and Java when I was in high school, but I didn't love those languages
-  or the bulky IDEs I was taught on so I never really took code *seriously* until I had a course with MATHLAB in my junior
-  year of college. Soon after I found GNU Octave, then Linux, and Python and well.... got hooked from there! Eventually
-  got bit by the security bug while I was floundering in a Physics PHD program. Instead of studying stat mech, I was up 
-  for hours trying to do hackthissite excercises and reading man pages, so I jumped ship into a cybersecurity program!
-  
-  I've been working as an Infosec Analyst at Adelphi University since 2019
+My attention is easily captured, but I'm generally interested in security and system administration, music 
+(video game music especially), electronics, data recovery/forensics, unix, freedom and free software.
+Python is my strongest language, but I've studied and used C and Java for toys and experiments. I'm in the 
+beginning stages of learning x86 assembly, but I've really only re-written C programs. Bash, Fish, and Vim are not 
+languages, but I like those too.
+
+I was a math tutor for a short time and a recitation instructor for physics before that so I also do
+have some soft spots for a good whiteboard problem. I'd love to get into os dev or lower level stuff someday, 
+mostly because I'm scared we're going to lose it if we keep it locked up like we do, but I've got to years of work 
+on that...
+
+All of my work is also cloned on my personal git server at https://git.mjfer.net if you prefer not using github to download (I would... )
+
+I've been working as an Infosec Analyst at Adelphi University since 2019
 
 <b><p align="center">
   All projects/opinions/commits/anything related on this account is my personal work 
   and DOES NOT necessarily reflect the views or work of my employer
 </p></b>
+
+This Readme used to be much more embarassing since I followed Microsoft's template without thinking. So enjoy cringing at my previous commits.
 
 - How to reach me: mjfernez@gmail.com
 
