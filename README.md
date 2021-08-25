@@ -5,8 +5,8 @@ I spend a good portion of my day reading through projects on here and various gi
 My attention is easily captured, but I'm generally interested in security and system administration, music 
 (video game music especially), electronics, data recovery/forensics, unix, freedom and free software.
 Python is my strongest language, but I've studied and used C and Java for toys and experiments. I'm in the 
-beginning stages of learning x86 assembly, but I've really only re-written C programs. Bash, Fish, and Vim are not 
-languages, but I like those too.
+beginning stages of learning x86 assembly, but I've really only re-written C programs at this point. Bash, Fish, 
+and Vim are not languages, but I like those too.
 
 I was a math tutor for a short time and a recitation instructor for physics before that so I also do
 have some soft spots for a good whiteboard problem. I'd love to get into os dev or lower level stuff someday, 
